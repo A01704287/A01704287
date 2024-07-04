@@ -15,17 +15,6 @@ I'm a passionate Robotics and Digital Systems Engineering student at Monterrey I
 - **Massachusetts Institute of Technology – MIT** (Summer 2019)
   - Course on Cyborg Enhancements
 
----
-
-## 💼 Experience
-
-- **Technical Support | The Gift Card Cafe (TGCC)** (2020 – 2021)
-  - Provided technical support to business owners for integrating TGCC software into their websites.
-  - Fostered integration and forged connections with new businesses.
-
-- **Strategic Planning Director | Robotics Student Council, ITESM** (August 2023 – 2024)
-  - Managed event planning, logistics, and budget allocation.
-  - Secured sponsorships and partnerships, supporting marketing campaigns.
 
 ---
 
