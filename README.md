@@ -65,13 +65,6 @@ I'm a passionate Robotics and Digital Systems Engineering student at Monterrey I
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-2196F3?logo=google&logoColor=white&style=flat)
 ![Pygame](https://img.shields.io/badge/-Pygame-00B140?logo=python&logoColor=white&style=flat)
 
----
-
-## 📫 Contact Me
-
-- **Email**: rodriescandon@gmail.com
-
-Feel free to explore my repositories and connect with me!
 
 ---
 
