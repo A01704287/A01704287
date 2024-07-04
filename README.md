@@ -58,8 +58,7 @@ I'm a passionate Robotics and Digital Systems Engineering student at Monterrey I
 
 ## 📫 Contact Me
 
-- **Phone**: +52 (442) 592 2020
-- **Email**: roescandon9@gmail.com
+- **Email**: rodriescandon@gmail.com
 
 Feel free to explore my repositories and connect with me!
 
