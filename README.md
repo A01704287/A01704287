@@ -48,17 +48,29 @@ I'm a passionate Robotics and Digital Systems Engineering student at Monterrey I
 
 ---
 
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=A01704287&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🌟 Skills
 
-- **Programming Languages**: Python, C++, R, MATLAB
-- **Tools and Technologies**: OpenCV, MediaPipe, Pygame, YOLOv5
-- **Languages**: English (TOEFL C1), German (A2), Spanish (native)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-2196F3?logo=google&logoColor=white&style=flat)
+![Pygame](https://img.shields.io/badge/-Pygame-00B140?logo=python&logoColor=white&style=flat)
 
 ---
 
 ## 📫 Contact Me
 
 - **Email**: rodriescandon@gmail.com
+- **Phone**: +52 (442) 592 2020
 
 Feel free to explore my repositories and connect with me!
 
