@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Rodrigo Escandon
 
 ## 👋 Hello, I'm Rodrigo Escandon Lopez Guerrero!
 
