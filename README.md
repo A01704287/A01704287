@@ -62,6 +62,3 @@ I'm a passionate Robotics and Digital Systems Engineering student at Monterrey I
 
 ---
 
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/rodrigo-escandon)
