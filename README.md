@@ -2,9 +2,7 @@
 
 ## About Me
 
-I'm a passionate Robotics and Digital Systems Engineering student at Monterrey Institute of Technology (ITESM), expected to graduate in 2025. I have a strong foundation in **Microcontrollers, IoT Implementation, Embedded Systems, Control Systems, Data Science, Computer Architecture, and Computational Intelligence**. I also had the opportunity to enhance my knowledge at MIT with a course on Cyborg Enhancements.
-
----
+I'm a passionate Robotics and Digital Systems Engineering student at Monterrey Institute of Technology (ITESM), expected to graduate in 2025.
 
 ## 📚 Education
 
